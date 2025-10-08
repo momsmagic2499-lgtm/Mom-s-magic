@@ -1,0 +1,39 @@
+<!-- ===== Mom's Magic Menu Section ===== -->
+<section id="menu" style="background-color:#111; color:#fff; text-align:center; padding:50px 20px; border-radius:0 0 20px 20px;">
+  <h1 style="font-size:2.2em; font-weight:bold; color:#f8d13b; margin-bottom:25px;">🍽️ Mom's Magic Menu</h1>
+
+  <!-- Menu Image -->
+  <img src="1000168858.jpg" alt="Mom's Magic Menu" 
+       style="max-width:90%; border-radius:12px; box-shadow:0 4px 20px rgba(255,255,0,0.2); margin-bottom:30px;">
+
+  <!-- Text Version -->
+  <div style="max-width:700px; margin:0 auto; text-align:left; line-height:1.8;">
+    <h2 style="color:#f8d13b;">Biryani</h2>
+    <ul style="list-style:none; padding-left:0;">
+      <li>Chicken Biryani — ₹219</li>
+      <li>Chicken Biryani Family Pack — ₹599</li>
+      <li>Chicken Biryani Jumbo Pack — ₹899</li>
+      <li>Chicken 65 Biryani — ₹259</li>
+      <li>Chicken 65 Biryani Family Pack — ₹699</li>
+      <li>Veg Biryani — ₹179</li>
+      <li>Veg Biryani Family Pack — ₹509</li>
+    </ul>
+
+    <h2 style="color:#f8d13b; margin-top:25px;">Curry’s</h2>
+    <ul style="list-style:none; padding-left:0;">
+      <li>Masala Chicken — ₹139 (Half) / ₹219 (Full)</li>
+      <li>Masala Paneer — ₹134 (Half) / ₹204 (Full)</li>
+    </ul>
+
+    <h2 style="color:#f8d13b; margin-top:25px;">Roti’s</h2>
+    <ul style="list-style:none; padding-left:0;">
+      <li>Pratha (2 pcs, Wheat) — ₹30</li>
+      <li>Phulka (2 pcs, Wheat) — ₹25</li>
+    </ul>
+
+    <p style="margin-top:25px; font-weight:bold; text-align:center; color:#f8d13b;">
+      📞 +91 70953 91079
+    </p>
+  </div>
+</section>
+<!-- ===== End Menu Section ===== -->
